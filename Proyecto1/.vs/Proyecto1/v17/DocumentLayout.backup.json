@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\milen\\Downloads\\Nueva carpeta\\Proyecto1\\",
+  "WorkspaceRootPath": "C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B96F5C75-0060-4697-B34C-CE930E061FC3}|Proyecto1\\Proyecto1.csproj|c:\\users\\milen\\downloads\\nueva carpeta\\proyecto1\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B96F5C75-0060-4697-B34C-CE930E061FC3}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\Proyecto1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B96F5C75-0060-4697-B34C-CE930E061FC3}|Proyecto1\\Proyecto1.csproj|c:\\users\\milen\\downloads\\nueva carpeta\\proyecto1\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B96F5C75-0060-4697-B34C-CE930E061FC3}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\Proyecto1\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto1\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\Proyecto1\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto1\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,27 +39,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\Proyecto1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\Proyecto1\\Form1.Designer.cs",
+              "RelativeToolTip": "Proyecto1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:20:16.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\Proyecto1\\Form1.resx",
+              "RelativeDocumentMoniker": "Proyecto1\\Form1.resx",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\Proyecto1\\Form1.resx",
+              "RelativeToolTip": "Proyecto1\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-25T20:20:12.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\milen\\Downloads\\Nueva carpeta\\Proyecto1\\Proyecto1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\Proyecto1\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto1\\Form1.cs",
-              "ToolTip": "C:\\Users\\milen\\Downloads\\Nueva carpeta\\Proyecto1\\Proyecto1\\Form1.cs*",
-              "RelativeToolTip": "Proyecto1\\Form1.cs*",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAIwMEAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\Proyecto1\\Form1.cs",
+              "RelativeToolTip": "Proyecto1\\Form1.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAiwMEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T02:45:45.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\milen\\Downloads\\Nueva carpeta\\Proyecto1\\Proyecto1\\Form1.cs",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\Proyecto1\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto1\\Form1.cs",
-              "ToolTip": "C:\\Users\\milen\\Downloads\\Nueva carpeta\\Proyecto1\\Proyecto1\\Form1.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Proyecto1\\Form1.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\Proyecto1DS4\\Proyecto1\\Proyecto1\\Form1.cs [Design]",
+              "RelativeToolTip": "Proyecto1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:42:07.597Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-29T01:42:07.597Z"
             }
           ]
         }
