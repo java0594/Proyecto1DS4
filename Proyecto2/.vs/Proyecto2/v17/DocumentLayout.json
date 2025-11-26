@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\proyecto2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|solutionrelative:proyecto2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\proyecto2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|solutionrelative:proyecto2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\proyecto2\\controllers\\operacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|solutionrelative:proyecto2\\controllers\\operacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\proyecto2\\dal\\operacionesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|solutionrelative:proyecto2\\dal\\operacionesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\proyecto2\\models\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|solutionrelative:proyecto2\\models\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyecto2\\proyecto2\\models\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEAE40D-8782-4DD1-A3E1-13CDCFFFCA06}|Proyecto2\\Proyecto2.csproj|solutionrelative:proyecto2\\models\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Proyecto2\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Proyecto2\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:38:21.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Web.config",
+              "RelativeDocumentMoniker": "Proyecto2\\Web.config",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Web.config",
+              "RelativeToolTip": "Proyecto2\\Web.config",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-26T03:27:05.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Controllers\\OperacionesController.cs",
+              "RelativeDocumentMoniker": "Proyecto2\\Controllers\\OperacionesController.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Controllers\\OperacionesController.cs",
+              "RelativeToolTip": "Proyecto2\\Controllers\\OperacionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:05:15.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperacionesDAL.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\DAL\\OperacionesDAL.cs",
+              "RelativeDocumentMoniker": "Proyecto2\\DAL\\OperacionesDAL.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\DAL\\OperacionesDAL.cs",
+              "RelativeToolTip": "Proyecto2\\DAL\\OperacionesDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:56:42.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reply.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Models\\Reply.cs",
+              "RelativeDocumentMoniker": "Proyecto2\\Models\\Reply.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Models\\Reply.cs",
+              "RelativeToolTip": "Proyecto2\\Models\\Reply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:10:14.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Models\\Operacion.cs",
+              "RelativeDocumentMoniker": "Proyecto2\\Models\\Operacion.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Models\\Operacion.cs",
+              "RelativeToolTip": "Proyecto2\\Models\\Operacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:01:20.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
